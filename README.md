@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">👋 Hi there! I’m a passionate full-stack developer with expertise in building scalable web applications. Currently, I’m a Software Developer Intern at Hitachi India and previously interned as a <br> Front-End Developer at CliniQ360. 🚀</h3>
+<h3 align="center">I’m a passionate full-stack developer with expertise in building scalable web applications. Currently, I’m a Software Developer Intern at Hitachi India and previously interned as a <br> Front-End Developer at CliniQ360. 🚀</h3>
 
 - 🔭 I’m currently working on [ML and LLM](https://github.com/vedantupadhye/Pdf_ChatNext)
 
