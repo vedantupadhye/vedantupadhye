@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vedant-upadhye.netlify.app/](https://portfolio-vedant-upadhye.netlify.app/)
 
-- 💬 Ask me about **Next.js,MERN,**
+- 💬 Ask me about **Next.js,MERN,,SmartAgents,LLMs**
 
 - 📫 How to reach me **vedupadhye10@gmail.com**
 
-- 📄 Know about my experiences [https://vvedantupadhyeresume.tiiny.site/](https://vvedantupadhyeresume.tiiny.site/)
+- 📄 My Resume [[https://vvedantupadhyeresume.tiiny.site/](https://vedantupadhyeresume.tiiny.site)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
